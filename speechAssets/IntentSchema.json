@@ -1,7 +1,16 @@
 {
   "intents": [
     {
-      "intent": "GetNewFactIntent"
+      "intent": "GetWeekNumber"
+    },
+    {
+      "intent": "GetDayOfYear"
+    },
+    {
+      "intent": "GetToday"
+    },
+    {
+      "intent": "GetTime"
     },
     {
       "intent": "AMAZON.HelpIntent"
